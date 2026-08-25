@@ -481,11 +481,3 @@ from lectura_temperatura
 group by almacen_id, lectura_fecha_hora
 having count(*) > 1;
 
-
--- =========================================================
--- 13. limpieza del staging
--- =========================================================
--- dejar comentado durante el desarrollo para conservar
--- la evidencia del proceso de carga.
---
--- drop table if exists staging_frio;
