@@ -45,7 +45,7 @@ El modelo está compuesto por las siguientes tablas:
 - `existencia_inventario`
 - `lectura_temperatura`
 
-# Estrucutra del repositorio:
+## Estrucutra del repositorio:
 
 tadb202620_examen_01/
 │

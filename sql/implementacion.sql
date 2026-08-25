@@ -14,7 +14,7 @@ begin
     ) then
         create role distri_cold_user
             login
-            password 'TU_PASSWORD';
+            password '123';
     end if;
 end
 $$;
